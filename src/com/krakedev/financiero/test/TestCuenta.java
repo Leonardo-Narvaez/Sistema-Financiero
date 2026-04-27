@@ -1,4 +1,4 @@
-package com.krakedev.financiero.entidades.test;
+package com.krakedev.financiero.test;
 
 import com.krakedev.financiero.entidades.Cuenta;
 
