@@ -35,6 +35,9 @@ public class Cliente {
 		this.apellido = apellido;
 	}
 
+	public Cliente() {
+	}
+
 	public void imprimir() {
 		System.out.println("-----Informacion Cliente-----");
 		System.out.println("# Cedula: " + cedula);
